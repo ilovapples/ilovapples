@@ -27,22 +27,8 @@
 - CSS
 - [JavaScript](//javascript.com)
 
-<!--
-**ilovapples/ilovapples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-###### JSON thing
+---
+##### JSON thing
 ```python
 import json
 
@@ -51,4 +37,7 @@ def get_json(jsonpath: str) -> dict:
   
   json_contents_dict = json.loads(json_contents)
   return {"str": json_contents, "dict": json_contents_dict}
+  
+# Example that prints the json file:
+print(get_json("example.json")["str"])
 ```
