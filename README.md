@@ -2,7 +2,7 @@
 <img src="src/importapple.PNG" width="75" height="75"></img>
 
 ## Friends
-I am friends with @Devilish-Bob.
+- [@Devilish-Bob](//github.com/devilish-bob).
 
 ## Projects
 
