@@ -41,3 +41,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### JSON thing
+```python
+import json
+
+def get_json(jsonpath: str) -> dict:
+  json_contents = open(jsonpath).read()
+  
+  json_contents_dict = json.loads(json_contents)
+  return {"str": json_contents, "dict": json_contents_dict}
+```
