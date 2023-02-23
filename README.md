@@ -11,7 +11,7 @@ I am friends with @Devilish-Bob.
 - Snow Mess
 
 #### Programs
-none yet
+- none yet
 
 #### Websites/Webapps
 - My ilovapples.github.io page
@@ -25,7 +25,7 @@ none yet
 ## Web-Dev/Markup Languages
 - HTML
 - CSS
-- JavaScript
+- [JavaScript](//javascript.com)
 
 <!--
 **ilovapples/ilovapples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
