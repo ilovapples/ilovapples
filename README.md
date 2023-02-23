@@ -17,11 +17,10 @@ none yet
 - My ilovapples.github.io page
 
 
-
 ## Programming Languages
-- Python
-- JavaScript
-- Swift
+- [Python](//python.org)
+- [JavaScript](//javascript.com)
+- [Swift](//swift.org)
 
 ## Web-Dev/Markup Languages
 - HTML
