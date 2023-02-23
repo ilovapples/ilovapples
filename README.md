@@ -15,7 +15,6 @@ none yet
 
 #### Websites/Webapps
 - My ilovapples.github.io page
-- My Script Saving Django web app.
 
 
 
