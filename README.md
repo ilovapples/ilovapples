@@ -1,4 +1,5 @@
 # ilovapples
+<img src="6755ACCC-1DDF-48B6-B23E-568D8B9CFF90.png" width="75" height="75"></img>
 
 ## Friends
 I am friends with @Devilish-Bob.
@@ -6,26 +7,27 @@ I am friends with @Devilish-Bob.
 ## Projects
 
 #### Datapacks
-1. Float-Blocks
+- Float-Blocks
+- Snow Mess
 
 #### Programs
-1. 2048
+none yet
 
 #### Websites/Webapps
-1. My ilovapples.github.io page
-2. My Script Saving Django web app.
+- My ilovapples.github.io page
+- My Script Saving Django web app.
 
 
 
 ## Programming Languages
-1. Python
-2. JavaScript
-3. Swift
+- Python
+- JavaScript
+- Swift
 
 ## Web-Dev/Markup Languages
-1. HTML
-2. CSS
-3. JavaScript
+- HTML
+- CSS
+- JavaScript
 
 <!--
 **ilovapples/ilovapples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
