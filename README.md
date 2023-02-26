@@ -37,7 +37,8 @@ def get_json(jsonpath: str) -> dict:
   
   json_contents_dict = json.loads(json_contents)
   return {"str": json_contents, "dict": json_contents_dict}
-
+```  
+```python
 # | JSON_FILE_NAME ||
 # | -------------- | -|
 # | tag1 | val1 |
