@@ -120,3 +120,7 @@ print(mc_json_to_md_horizontal("Minecraft Items.json"))
 
 ## The number of people that have visited my profile:
 ![Number of people that visited my profile.](https://profile-counter.glitch.me/ilovapples/count.svg)
+
+
+# _**PLS GIVE [INSPIRATION](//xkcd.com/1584)**_
+![](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
