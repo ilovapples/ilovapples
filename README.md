@@ -37,6 +37,8 @@
 ## The number of people that have visited my profile:
 ![Number of people that visited my profile.](https://profile-counter.glitch.me/ilovapples/count.svg)
 
+## Most Used Languages
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovapples&theme=gotham)](https://github.com/ilovapples)
 
 # _**PLS GIVE [INSPIRATION](//xkcd.com/1584)**_
 ![](https://imgs.xkcd.com/comics/moments_of_inspiration.png)
