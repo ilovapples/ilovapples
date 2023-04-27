@@ -4,6 +4,7 @@
 
 ## Programming Languages
 - [Python](https://python.org)
+- [Java](https://java.com) (learned it for Minecraft modding)
 - [JavaScript](https://javascript.com)
 - [Swift](https://swift.org)
 - [Lua](https://lua.org) (learned it for ComputerCraft)
