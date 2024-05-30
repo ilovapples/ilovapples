@@ -4,12 +4,8 @@
 
 ## Programming Languages
 - [Python](https://python.org)
-- [Java](https://java.com) (learned it for Minecraft modding)
 - [JavaScript](https://javascript.com)
-- [Swift](https://swift.org)
-- [Lua](https://lua.org) (learned it for ComputerCraft)
-- [C++](https://www.isocpp.org) (Only know a little bit)
-- [Go](https://go.dev) (Just started learning it on 4/10/23)
+
 
 ## Web-Dev/Markup Languages
 - HTML
@@ -17,3 +13,10 @@
 - [JavaScript](//javascript.com)
 
 (plus I play Minecraft)
+
+## Learning (at some point)
+- [Java](https://java.com) (learned it for Minecraft modding)
+- [Swift](https://swift.org)
+- [Lua](https://lua.org) (learned it for ComputerCraft)
+- [C++](https://www.isocpp.org) (Only know a little bit)
+- [Go](https://go.dev) (Just started learning it on 4/10/23)
