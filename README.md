@@ -5,7 +5,7 @@
 ## Programming Languages
 - [Python](https://python.org)
 - [JavaScript](https://javascript.com)
-- C++ (-ish)
+- [C++](https://www.isocpp.org) (-ish)
 
 ## Web-Dev/Markup Languages
 - HTML
