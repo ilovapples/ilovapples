@@ -1,7 +1,5 @@
 # ilovapples
 ---
-<a href="https://ilovapples.github.io"><img src="src/importapple.PNG" width="75" height="75"></img></a>
-
 ## Programming Languages
 - C (see [gameoflife-c](https://github.com/ilovapples/gameoflife-c) ) (getting better, I hope)
 
