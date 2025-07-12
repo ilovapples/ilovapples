@@ -3,19 +3,17 @@
 <a href="https://ilovapples.github.io"><img src="src/importapple.PNG" width="75" height="75"></img></a>
 
 ## Programming Languages
-- [Python](https://python.org)
-- [JavaScript](https://javascript.com)
-- [C++](https://www.isocpp.org) (-ish)
+- C (see [gameoflife-c](https://github.com/ilovapples/gameoflife-c) ) (getting better, I hope)
 
 ## Web-Dev/Markup Languages
+(please note I have not used any of these for over a year)
 - HTML
 - CSS
-- [JavaScript](//javascript.com) (?)
+- JavaScript (?)
 
 (plus I play Minecraft)
 
 ## Learning (at some point)
-- [Java](https://java.com) (learned it for Minecraft modding)
-- [Lua](https://lua.org) (learned it for ComputerCraft)
-- [C++](https://www.isocpp.org) (still learning)
-- [Go](https://go.dev) (Just started learning it on 4/10/23)
+- [Java](https://java.com) (learned the syntax for Minecraft modding, should probably learn the standard library for AP CS)
+- [C++](https://www.isocpp.org) (still learning, because it's hard)
+- [Go](https://go.dev) (seems fun)
